@@ -15,7 +15,7 @@ The delivery project must be compatible on mobile phones and desktop browsers.
 
 ## Requirements
 
-### Modify the index.html file so that it matches the mockup as closely as possible
+### Modify the index.html file so that it matches the mockup as closely as possible, Don't forget to add your own personal touch ! 
 
 - You must fork this project before working on it.
 
