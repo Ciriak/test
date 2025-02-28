@@ -7,7 +7,7 @@ Congratulations ! You have been contracted by the company `BOLT` to integrate th
 You are free to use any tool and technology you want to achieve this task - beside AI as it is against the company policy.
 
 The design team have provided you with various assets under the `assets` folder.
-In addition, a mockup is available under `./assets/mockup.png` and an inspiration of what the customer wants is available under `./assets/inspiration-1.png`.
+In addition, a mockup is available under `./assets/mockup.jpg` and an inspiration of what the customer wants is available under `./assets/inspiration-1.png`.
 
 The tech lead of your team have already setup the `index.html` file
 
